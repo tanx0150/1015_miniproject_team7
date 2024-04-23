@@ -19,5 +19,5 @@ Forecasts are especially relevant to brick-and-mortar grocery stores, which must
 
 
 
-
+### References
 https://www.kaggle.com/code/ryanholbrook/forecasting-with-machine-learning
