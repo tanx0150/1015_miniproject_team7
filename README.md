@@ -28,4 +28,5 @@ Forecasts are especially relevant to brick-and-mortar grocery stores, which must
 
 
 ### References
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 https://www.kaggle.com/code/ryanholbrook/forecasting-with-machine-learning
