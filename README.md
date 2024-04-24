@@ -10,14 +10,16 @@ Forecasts are especially relevant to brick-and-mortar grocery stores, which must
 - SARIMA Model
 - Holt-Winters Forecasting Model
 
-
 ## Contributors
 - Xin Min: Data cleaning, exploratory data analysis (EDA)
 - Max: Machine learning techniques, data-driven insights
 - Ezekiel: Presentation slides and recommendations
 
 ## Conclusion
-
+- Use Machine Learning (ML) to predict sales using time series data
+- Forecast how sales will look based on past data
+- Holt-Winters model performed the best as it had the lowest Mean Squared Error (MSE), Root Mean Squared Error (RMSE) etc out of all models
+- Using data predictions, a grocery store can estimate how much of an item to buy and when to buy that amount in accordance to trends, and can prevent both understocking and overstocking products.
 
 ## What we learnt 
 - How to do data handling and analysis
@@ -30,3 +32,6 @@ Forecasts are especially relevant to brick-and-mortar grocery stores, which must
 ### References
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 https://www.kaggle.com/code/ryanholbrook/forecasting-with-machine-learning
+https://www.w3schools.com/python/python_ml_polynomial_regression.asp
+https://medium.com/@ritusantra/introduction-to-sarima-model-cbb885ceabe8
+https://medium.com/analytics-vidhya/a-thorough-introduction-to-holt-winters-forecasting-c21810b8c0e6
